@@ -1,0 +1,14 @@
+header{ display:flex;
+    justify-content: space-between;
+
+}
+main{ display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.4);
+
+}
+#logo{
+    height: 50px;
+}
